@@ -40,7 +40,7 @@ print(last_char)
 
 # length of a string
 
-# # if we try to use length =10 - it wiil be array out of index
+# # if we try to use length =10 - it wiil be string out of index
 # len_char_err = string1(10)
 # print(len_char_err)  # TypeError: 'str' object is not callable
 

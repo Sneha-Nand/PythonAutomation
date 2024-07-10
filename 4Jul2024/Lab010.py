@@ -9,8 +9,12 @@
 
 print(complex(2.5,-18.2))
 
+print((complex(1,2)))
+print((complex(-4,-5)))
+
 c = complex(2.5,-18.2)
 c = c+1 # addition
 print(c)
+
 
 
